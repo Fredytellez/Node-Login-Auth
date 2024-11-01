@@ -1,20 +1,20 @@
-# Node: sesion de usuario, autenticación y autorización
+# Node: sesión de usuario, autenticación y autorización
 
-1. Instalacion del proyecto
+1. Instalación del proyecto
     - dependencias: 
         * Base de datos db-local 
         * Instalar bcrypt para encriptar contraseñas
-        * ejs para visualizacion de front-end
+        * ejs para visualización de front-end
         * jsonwebtoken
         * cookie-parser
 2. Usuarios en base de datos
 3. Registro de usuarios
-4. Autenticacion basica con login password
-5. Verificacion de autenticaciones
-6. Sesion de usuario con cookie
-7. Rutas protejidas
+4. Autenticación básica con login password
+5. Verificación de autenticaciones
+6. Sesión de usuario con cookie
+7. Rutas protegidas
 8. Json Web Token
 9. Refactorizar con middlewares
-10. Cerrar sesion
-11. Refres Token 
+10. Cerrar sesión
+11. Refresh Token 
 12. 
