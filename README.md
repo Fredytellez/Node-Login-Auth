@@ -1,7 +1,12 @@
-# Node: sesion de usuario, autenticacion y autyorizacion
+# Node: sesion de usuario, autenticación y autorización
 
 1. Instalacion del proyecto
-    dependencias: Base de datos db-local -- Instalar bcrypt para encriptar contraseñas
+    - dependencias: 
+        * Base de datos db-local 
+        * Instalar bcrypt para encriptar contraseñas
+        * ejs para visualizacion de front-end
+        * jsonwebtoken
+        * cookie-parser
 2. Usuarios en base de datos
 3. Registro de usuarios
 4. Autenticacion basica con login password
